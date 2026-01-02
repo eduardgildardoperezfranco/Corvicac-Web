@@ -1,0 +1,10 @@
+# Build / framework leftovers
+_next/
+node_modules/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Env / secrets
+.env*

@@ -1,0 +1,289 @@
+CORVICAC – Modern Web Design System README
+Purpose
+
+This README is a Notepad/IDE-ready instruction prompt to guide designers, frontend developers, and AI-assisted IDEs in building a modern, ethical, empathetic, and logically structured web presence for CORVICAC.
+
+The system integrates:
+
+Cognitive clarity
+
+Logical structure
+
+Empathy-driven UX
+
+Modern global web standards
+
+Accessibility, inclusion, and human dignity
+
+This document can be pasted directly into an IDE as design + development instructions.
+
+Organizational Context (Semantic Foundation)
+
+Organization: CORVICAC – Corporación de Afrocolombianos y Mestizos Víctimas del Conflicto Armado Interno Colombiano
+Nature: NGO / Non-profit / Human rights / Peacebuilding
+Core Values: Justicia, Igualdad, Respeto
+Audience:
+
+Victims of armed conflict
+
+Families and communities
+
+NGOs & international partners
+
+Government & legal institutions
+
+Donors & allies
+
+Tone must always be:
+
+Respectful
+
+Trustworthy
+
+Calm
+
+Empowering
+
+Non-political but rights-centered
+
+Design Philosophy (Cognition + Empathy)
+Cognitive Principles
+
+Reduce cognitive load (simple layouts, few colors)
+
+Clear hierarchy (headings, spacing, rhythm)
+
+Predictable navigation
+
+Plain language (Spanish-first, multilingual ready)
+
+Empathy Principles
+
+Avoid aggressive animations
+
+Avoid excessive contrast or alarming colors
+
+Use human-centered imagery (hands, community, unity)
+
+Text must validate dignity and resilience, never pity
+
+Logical Structure
+
+Every page answers:
+
+What is this?
+
+Who is it for?
+
+How does it help me?
+
+What can I do next?
+
+Visual Identity – HEX Color System
+Primary Palette (From Logo & Symbolism)
+Green Justice       #1E7F43  (Life, territory, hope)
+Deep Green          #145A32  (Stability, trust)
+Gold Dignity        #D4AF37  (Value, human worth)
+Earth Brown         #6E4B3A  (Roots, ancestry)
+Black Human         #1C1C1C  (Seriousness, respect)
+White Peace         #FFFFFF  (Clarity, peace)
+Secondary Palette (UI Support)
+Soft Gray           #F4F6F5  (Backgrounds)
+Warm Gray           #DADDD8  (Cards, separators)
+Accessible Yellow   #F2C94C  (Highlights – WCAG safe)
+Calm Blue           #2F80ED  (Links, actions, trust)
+Color Rules
+
+Never use red as primary
+
+Gold only for emphasis, not body text
+
+Maintain WCAG AA contrast minimum
+
+Typography System
+Font Stack (Modern & Global)
+Primary: Inter, system-ui, sans-serif
+Secondary (Headings): Poppins or Source Sans 3
+Fallback: Arial, Helvetica
+Typography Logic
+
+Base font size: 16px
+
+Line height: 1.6–1.8
+
+Headings max 3 weights
+
+No decorative fonts
+
+Layout & Grid System
+Structure
+
+Max width: 1200px
+
+8pt spacing system
+
+Mobile-first responsive design
+
+Page Anatomy
+
+Calm header (logo + mission link)
+
+Clear hero statement
+
+Human-centered content blocks
+
+Services / Programs
+
+Call to action (soft, respectful)
+
+Trust section (partners, values)
+
+Footer with legal clarity
+
+UI Components (IDE Instructions)
+Buttons
+Border-radius: 12px
+Padding: 12px 20px
+Font-weight: 500
+Hover: subtle elevation only
+No flashing, no shaking
+Cards
+
+Rounded corners (16px)
+
+Soft shadow only
+
+White or soft gray background
+
+Forms
+
+Large labels
+
+Helper text
+
+Trauma-informed language
+
+Never force urgency
+
+Accessibility & Inclusion (Non-Negotiable)
+
+WCAG 2.1 AA minimum
+
+Keyboard navigation
+
+Screen reader friendly
+
+Alt text focused on meaning, not aesthetics
+
+Language switch ready (ES default)
+
+Content Guidelines (Human-Centered Writing)
+Always Use
+
+"acompañamiento"
+
+"derechos"
+
+"dignidad"
+
+"reconstrucción"
+
+"comunidad"
+
+Never Use
+
+Violent metaphors
+
+Militarized language
+
+Pity-driven phrasing
+
+Excessive bureaucracy
+
+Suggested Tech Stack (Modern & Sustainable)
+Frontend
+
+Next.js or Astro
+
+Tailwind CSS (restricted palette)
+
+Framer Motion (minimal, optional)
+
+Backend (If Needed)
+
+Node.js / NestJS
+
+PostgreSQL
+
+Headless CMS (Strapi / Sanity)
+
+Hosting
+
+Vercel / Netlify
+
+CDN enabled
+
+Daily backups
+
+IDE PROMPT (Copy-Paste for AI Coding Assistants)
+You are building a calm, ethical, human-centered website for a Colombian NGO focused on victims of armed conflict.
+
+
+Priorities:
+- Empathy over persuasion
+- Clarity over decoration
+- Accessibility over novelty
+
+
+Use the CORVICAC color system and typography.
+Avoid aggressive UX patterns.
+All components must feel respectful, stable, and trustworthy.
+Success Criteria
+
+Users feel safe and respected
+
+Information is easy to understand
+
+Navigation is predictable
+
+The site reflects dignity, justice, equality, and respect
+
+Final Note
+
+This system is designed to scale nationally and internationally while preserving human dignity at every interaction point.
+
+Design is not decoration here — it is ethical infrastructure.
+
+I’ve created a clean, modern, IDE-ready README in the canvas that you can use as:
+
+a design system
+
+a prompt for AI coding assistants
+
+a reference for frontend teams
+
+a human-centered UX & accessibility guide
+
+It is structured with cognition, logic, empathy, and modern web standards, grounded in CORVICAC’s mission, vision, and symbolism, including:
+
+🎨 HEX color system derived from your logo & values
+
+🧠 Cognitive + trauma-informed UX principles
+
+🧩 Clear layout, typography, and component rules
+
+♿ Accessibility & inclusion as non-negotiables
+
+🛠 Modern global tech stack suggestions
+
+🤖 Copy-paste IDE / AI prompt instructions
+
+This document is ready to be:
+
+pasted into Notepad
+
+committed as README.md
+
+shared with designers, developers, or NGOs
+
+used as a single source of truth
